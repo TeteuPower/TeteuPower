@@ -1,7 +1,7 @@
 # 👋 Hello there!👋 ; Welcome to my Github profile!
 ## My name is Matheus and my nickname is TeteuPower!
 ## My Tools and Technologies: 🚀
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://img.icons8.com/?size=100&id=bqGAqsgNQpmx&format=png&color=000000" width="40" height="40" /> <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="40" height="40" />
 # I'm Brazilian and I live in São Paulo BR, I speak Portuguese and English but I'm training conversation in English. Thanks for your visit and contact me on social pages!
 ## 👽 Reach me: 🔎
 
